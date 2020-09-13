@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yideyi.github.io</id>
     <title>一得一</title>
-    <updated>2020-09-13T09:52:12.435Z</updated>
+    <updated>2020-09-13T09:58:28.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yideyi.github.io"/>
     <link rel="self" href="https://yideyi.github.io/atom.xml"/>
@@ -261,8 +261,7 @@
         <link href="https://yideyi.github.io/post/tian-tang-zhi-wen/">
         </link>
         <updated>2020-09-13T07:30:32.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>你不是虔诚的基督徒<br>
+        <content type="html"><![CDATA[<p>你不是虔诚的基督徒<br>
 可是<br>
 那一年的夏天<br>
 暴雨肆虐洪水滔天<br>
